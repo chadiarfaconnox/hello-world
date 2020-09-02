@@ -1,2 +1,2 @@
 # hello-world
-first project
+I'm Chadi and this is my first project.
